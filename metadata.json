@@ -1,0 +1,8 @@
+{
+  "name": "Remix InfoGenius",
+  "description": "Using Google search grounding you are able to research topics and instantly generate verified visuals tailored to your audience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
